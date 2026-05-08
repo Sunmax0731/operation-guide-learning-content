@@ -1,0 +1,13 @@
+{
+  "product": "operation-guide-learning-content",
+  "title": "操作ガイド",
+  "domain": "EducationLearning",
+  "ideaNo": 4,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / GitHub Release",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
